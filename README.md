@@ -1,4 +1,4 @@
-# FileSystem_RecurisiveScan
+# FileSystem_RecursiveScan
 
 PHP File System Recursive Scan Procedure
 
